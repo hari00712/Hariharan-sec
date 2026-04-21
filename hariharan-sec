@@ -1,17 +1,26 @@
-Hi, I'm Hari Haran 👋
+Hi, I'm Hari Haran 
 
-🎓 CSE Student | 🔐 Cybersecurity Enthusiast  
-📜 CEH Certified  
+ Cybersecurity Enthusiast | CEH Certified  
+ B.E CSE @ RMK Engineering College  
 
 Skills
-- Network Security
-- Threat Detection
-- Python, Flask
-- Wireshark, Nmap
+- Network Security & Traffic Analysis
+- Vulnerability Assessment (OWASP Top 10)
+- Threat Detection & Incident Response
 
- Projects
-- Network Traffic Analysis Tool
-- DDoS Detection System
+ Tools
+Wireshark | Linux | Splunk | Wazuh | Git
+
+Projects
+
+ Network Threat Detection System
+- Real-time packet analysis
+- DDoS detection
+- Auto IP blocking
+
+ Web Vulnerability Scanner
+- Detects OWASP vulnerabilities
+- Automated reporting
 
 Contact
 - LinkedIn:https://www.linkedin.com/in/hari-haran-787149367/
